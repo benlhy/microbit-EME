@@ -1,3 +1,4 @@
+![](https://github.com/benlhy/microbit-EME/microbiteme.jpg)
 # micro:bit controller board
 Orginally comissioned by Electronics Made Easy (Singapore) and released under the MIT License.
 
